@@ -44,7 +44,7 @@ A simple and secure backend service built with **TypeScript/Node.js**, **Express
 
 ## 🧪 API Endpoints
 
-### 📬 `POST /api/v1/newsletter/subscribers/subscribe`
+### 📬 `POST /api/v1/newsletter/subscribers`
 Subscribe a user to the newsletter (confirmation email is sent)
 
 #### Request Body
